@@ -1,0 +1,12 @@
+{
+    "name": "srv-hasura-super-heroes",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "console": "hasura console --console-port 9695 --admin-secret srvheroes"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
