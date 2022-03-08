@@ -1,0 +1,1 @@
+DELETE FROM "public"."heroes" WHERE "id" = '03d83e84-89c8-4f73-9799-a64894014973';
